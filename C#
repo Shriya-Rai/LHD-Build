@@ -1,0 +1,8 @@
+using System
+namespace MyApp
+{
+    class Program
+    static void Main(string [])
+    Console.WriteLine("Hello MLH Local Hack Day: Build!");
+    Console.WriteLine("Hello World");
+}
